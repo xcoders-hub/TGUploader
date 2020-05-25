@@ -1,15 +1,15 @@
 import os
 class Config(object):
     # get a token from https://chatbase.com
-    CHAT_BASE_TOKEN = "c2348abe-1048-4da0-915c-75e9f30b60ec"
+    CHAT_BASE_TOKEN = "11315729-822c-4ef1-a4bf-fe9b073787e9"
     # get a token from @BotFather
-    TG_BOT_TOKEN = "811864309:AAEkp3gu8e5a33OPxysGv-0_2HMuQK0hRk4"
+    TG_BOT_TOKEN = "1261526770:AAF2yUcExV3O1POnD2ydcKz5XmOEKaxtPWg"
     # The Telegram API things
-    APP_ID = 1297675
-    API_HASH = "63918c60e429c222c97d5dd42c751bd0"
+    APP_ID = 1064864
+    API_HASH = "5f3eeab0e6108731551e6a93598b654c"
     # Get these values from my.telegram.org
     # Array to store users who are authorized to use the bot
-    AUTH_USERS = [411860733, 329095176]
+    AUTH_USERS = [1023178134]
     # Banned Unwanted Members..
     BANNED_USERS = []
     # the download location, where the HTTP Server runs
